@@ -2,33 +2,40 @@
 <html>
 <body>
 
-<p>This is some text.</p>
+
+<div id="header">
+ <p>Jennifer Flores <p>
+ <p> 352 Hunter ave. Oakland Ave.<p>
+ <center><h1><u> Resume </u></h1><center>
 
 <hr/>
 
-<div style="oppurtunities">
-  <h3>Oppurtunities </h3>
+<div id="body" style="text-align:left;" >
+  <h3><u> Oppurtunities </u></h3>
+  <h4><dt>Berkeley Boost Program</dt></h4>
+  <li> 4 years long</li>
+  <li> Freshamn Year Business Plan Winner</li>
 
-<dl>
-  <dt>Berkeley Boost Program</dt>
-  <dd> - 4 years long</dd>
-  <dd> - Freshamn Year Business Plan Winner</dd>
-
-  <dt>Oakland Police Department Explorer</dt>
-  <dd> - 2 semester long</dd>
+  <h4><dt>Oakland Police Department Explorer</dt></h4>
+  <li> - 2 semester long</li>
 </dl>
-</div>
 
-<div style="skills">
-  <h3>Skills </h3>
+<hr/>
+<div id="education" style="text-align:left;">
+  
+  <h3><u>Education</u></h3>
+  <li> Alameda Science and Technology Institute </li>
+  <li> Alameda Science and Technology Institute </li>
 
-<dl>
-  <dt>Berkeley Boost Program</dt>
-  <dd> - 4 years long</dd>
-  <dd> - Freshamn Year Business Plan Winner</dd>
+</dl>
+<hr/>
+  <h3><u>Expiriences</h3></u>
+  <h4><dt>Berkeley Boost Program</dt></h4>
+  <li> - 4 years long</li>
+  <li> - Freshamn Year Business Plan Winner</li>
 
-  <dt>Oakland Police Department Explorer</dt>
-  <dd> - 2 semester long</dd>
+  <h4><dt>Oakland Police Department Explorer</dt></h4>
+  <li> - 2 semester long</li>
 </dl>
 </div>
 
